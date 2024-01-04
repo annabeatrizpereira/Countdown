@@ -1,7 +1,7 @@
 <h1 align="center"> Countdown Timer ⏳</h1>
 
 <p align="center">
-A temporary page to launch your website.
+A temporary page to launch your website on desktop.
 </p>
 
 <p align="center">
