@@ -1,5 +1,5 @@
 // Set the date we're counting down to
-var countDownDate = new Date("Jan 1, 2025 00:00:00").getTime();
+var countDownDate = new Date("Jan 1, 2026 00:00:00").getTime();
 
 // Adding zero to the left when necessary
 function formatNumber(number) {
